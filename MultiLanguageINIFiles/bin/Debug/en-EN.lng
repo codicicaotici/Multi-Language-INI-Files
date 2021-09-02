@@ -1,0 +1,12 @@
+[mn_file]
+menu_1=Open
+menu_2=New
+menu_3=Save
+menu_4=Save as
+menu_5=Exit
+
+[mn_insert]
+menu_1=Insert
+menu_2=Pictures
+menu_3=Drawing
+menu_4=Graph

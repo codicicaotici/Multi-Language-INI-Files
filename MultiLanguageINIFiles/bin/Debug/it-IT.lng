@@ -1,0 +1,12 @@
+[mn_file]
+menu_1=File
+menu_2=Nuovo
+menu_3=Salva
+menu_4=Salva come
+menu_5=Esci
+
+[mn_insert]
+menu_1=Modifica
+menu_2=Immagini
+menu_3=Disegno
+menu_4=Grafico

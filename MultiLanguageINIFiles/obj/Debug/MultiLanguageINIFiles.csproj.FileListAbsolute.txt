@@ -1,0 +1,10 @@
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.csproj.AssemblyReference.cache
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.Form1.resources
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.Properties.Resources.resources
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.csproj.GenerateResource.cache
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.csproj.CoreCompileInputs.cache
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\bin\Debug\MultiLanguageINIFiles.exe.config
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\bin\Debug\MultiLanguageINIFiles.exe
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\bin\Debug\MultiLanguageINIFiles.pdb
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.exe
+D:\Disco_E\C#\Condividi\github_MultiLanguage\MultiLanguageINIFiles\obj\Debug\MultiLanguageINIFiles.pdb
